@@ -1,0 +1,218 @@
+[
+	{
+		"id": 1,
+		"name": "Seaside Paradise",
+		"location": "Maldives",
+		"rating": 4.9,
+		"imageUrl": "https://example.com/images/seaside-paradise.jpg",
+		"datesOfTravel": [
+			"2024-01-01",
+			"2024-01-07"
+		],
+		"boardBasis": "AllInclusive",
+		"rooms": [
+			{
+				"roomType": "DeluxeSuite",
+				"amount": 5
+			},
+			{
+				"roomType": "FamilyRoom",
+				"amount": 3
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Mountain Retreat",
+		"location": "Swiss Alps",
+		"rating": 4.7,
+		"imageUrl": "https://example.com/images/mountain-retreat.jpg",
+		"datesOfTravel": [
+			"2024-02-15",
+			"2024-02-22"
+		],
+		"boardBasis": "BednBreakfast",
+		"rooms": [
+			{
+				"roomType": "StandardRoom",
+				"amount": 10
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Urban Oasis",
+		"location": "New York City, USA",
+		"rating": 4.5,
+		"imageUrl": "https://example.com/images/urban-oasis.jpg",
+		"datesOfTravel": [
+			"2024-03-10",
+			"2024-03-17"
+		],
+		"boardBasis": "RoomOnly",
+		"rooms": [
+			{
+				"roomType": "LuxurySuite",
+				"amount": 2
+			},
+			{
+				"roomType": "StandardRoom",
+				"amount": 20
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Desert Dream",
+		"location": "Dubai, UAE",
+		"rating": 4.8,
+		"imageUrl": "https://example.com/images/desert-dream.jpg",
+		"datesOfTravel": [
+			"2024-04-01",
+			"2024-04-10"
+		],
+		"boardBasis": "HalfBoard",
+		"rooms": [
+			{
+				"roomType": "LuxuryVilla",
+				"amount": 10
+			},
+			{
+				"roomType": "FamilyRoom",
+				"amount": 5
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Tropical Escape",
+		"location": "Bali, Indonesia",
+		"rating": 4.6,
+		"imageUrl": "https://example.com/images/tropical-escape.jpg",
+		"datesOfTravel": [
+			"2024-05-01",
+			"2024-05-10"
+		],
+		"boardBasis": "AllInclusive",
+		"rooms": [
+			{
+				"roomType": "BeachVilla",
+				"amount": 8
+			},
+			{
+				"roomType": "GardenRoom",
+				"amount": 12
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Historic Haven",
+		"location": "Rome, Italy",
+		"rating": 4.4,
+		"imageUrl": "https://example.com/images/historic-haven.jpg",
+		"datesOfTravel": [
+			"2024-06-01",
+			"2024-06-07"
+		],
+		"boardBasis": "BreakfastIncluded",
+		"rooms": [
+			{
+				"roomType": "ClassicRoom",
+				"amount": 15
+			},
+			{
+				"roomType": "LuxurySuite",
+				"amount": 5
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Safari Lodge",
+		"location": "Serengeti, Tanzania",
+		"rating": 4.9,
+		"imageUrl": "https://example.com/images/safari-lodge.jpg",
+		"datesOfTravel": [
+			"2024-07-10",
+			"2024-07-20"
+		],
+		"boardBasis": "FullBoard",
+		"rooms": [
+			{
+				"roomType": "LuxuryTent",
+				"amount": 10
+			},
+			{
+				"roomType": "FamilySuite",
+				"amount": 3
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Ocean Breeze",
+		"location": "Gold Coast, Australia",
+		"rating": 4.3,
+		"imageUrl": "https://example.com/images/ocean-breeze.jpg",
+		"datesOfTravel": [
+			"2024-08-01",
+			"2024-08-10"
+		],
+		"boardBasis": "SelfCatering",
+		"rooms": [
+			{
+				"roomType": "OceanViewSuite",
+				"amount": 6
+			},
+			{
+				"roomType": "FamilyRoom",
+				"amount": 8
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Rainforest Retreat",
+		"location": "Costa Rica",
+		"rating": 4.7,
+		"imageUrl": "https://example.com/images/rainforest-retreat.jpg",
+		"datesOfTravel": [
+			"2024-09-01",
+			"2024-09-15"
+		],
+		"boardBasis": "AllInclusive",
+		"rooms": [
+			{
+				"roomType": "JungleBungalow",
+				"amount": 7
+			},
+			{
+				"roomType": "StandardRoom",
+				"amount": 10
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Island Bliss",
+		"location": "Hawaii, USA",
+		"rating": 4.8,
+		"imageUrl": "https://example.com/images/island-bliss.jpg",
+		"datesOfTravel": [
+			"2024-10-01",
+			"2024-10-10"
+		],
+		"boardBasis": "FullBoard",
+		"rooms": [
+			{
+				"roomType": "BeachfrontSuite",
+				"amount": 12
+			},
+			{
+				"roomType": "StandardRoom",
+				"amount": 15
+			}
+		]
+	}
+]
