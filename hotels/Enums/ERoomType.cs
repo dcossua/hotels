@@ -1,5 +1,8 @@
 ﻿namespace hotels.Enums
 {
+    /// <summary>
+    /// Enum representing the type of a room.
+    /// </summary>
     public enum ERoomType
     {
         DeluxeSuite,

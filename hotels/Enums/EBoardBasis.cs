@@ -2,6 +2,9 @@
 
 namespace hotels.Enums
 {
+    /// <summary>
+    /// Enum representing the board basis of a hotel.
+    /// </summary>
     public enum EBoardBasis
     {
         AllInclusive,
