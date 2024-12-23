@@ -14,6 +14,6 @@ namespace hotels.Models
         /// <summary>
         /// Get or set the amount.
         /// </summary>
-        public int amount { get; set; }
+        public int Amount { get; set; }
     }
 }
